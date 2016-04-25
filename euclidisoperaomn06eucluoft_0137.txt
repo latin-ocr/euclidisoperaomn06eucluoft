@@ -1,0 +1,50 @@
+DATA. 7 1
+
+XL.
+
+Si trianguli singuli anguli dati sunt magnitudine,
+triangulus datus est specie.
+
+nam trianguli ΑΒΓ singuli anguli dati sint magni-
+tudine. dieo, triangulum ΑΒΓ datum esse speeie.
+
+ponatur enim reeta A E positione et magnitu-
+
+dine data, et ad AE et puncta in ea posita A, Ε
+
+angulo ΓΒΑ aequalis construatur angulus rectilineus
+
+EAZ et angulo ΑΓΒ aequalis
+
+A AEZ [I, 23]. reliquus igitur
+
+ang-ulus ΒΑΓ reliquo AZE ae-
+
+qualis est [I‚ 32]. sed singuli
+
+s Z anguli ad puncta A, Β, Γ positi
+
+ΒΛ dati sunt. itaque etiam singuli
+anguli ad A‚E‚ Z positi dati sunt
+
+[def. 1]. iam quoniam ad rectam
+
+positione datam AE et datum punc-
+
+Δ E tum in ea positum A reeta linea
+
+A Z dueta est datum efficiens angu-
+lum adA positum, A Ζ data erit positione [prop. XXIX].
+eadem igitur de eausa etiam EZ positione data est.
+itaque punctum Z datum est [prop. XXV]. uerum
+etiam utrumque punctum A, E datum est. quare
+unaquaeque rectarum A Z, A E, ΕΖ data est positione
+et magnitudine [prop. XXVI} ergo triangulus AZE
+datus est speeie [prop. XXXIX} et similis est tri-
+angulo ΑΒΓ [VI‚ 4} ergo etiam triangulus ΑΒΓ
+datus est specie [def. 3].
+
+ 
+
+ΖεΞίι ἷὲαὓεστιν η ΔΖ m. 2. 18. ἐστίν] ἐστι Vatv. 20.
+

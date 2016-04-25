@@ -1,0 +1,47 @@
+DATA. 65
+
+’ sumatur enim in recta AB datum punctum A, et
+ducatur ab A ad ΓΔ perpendicularis AN. quoniam
+a dato puncto A ad rectam positione datam ΓΔ recta
+
+linea ducta est AN datum
+
+ 
+
+Αν--ῩΕᾸ-ᾗζέ-Β efficiens angulum AN A,
+Θ Γρξ K positione data erit AN
+ΧΗ [M [prop. XXX} sed positione
+
+Τύρῳ-Δ etiam ΓΔ data est. ergo
+
+N punctum N datum est
+[prop. XXV] uerum etiam A datum est. itaque recta
+AN data est [prop. XXVI] et quoniam ratio ZH: HE
+data est et ZH: HE= NM: MA [VI, 2], etiam
+ratio N M : MA data erit [def. 2]. quare etiam ratio
+NAzMA data est [prop. VI]. sed data est NA.
+ergo etiam AM data est [prop. II]. uerum etiam
+positione data est. et datum est punctum A3 itaque
+etiam M datum est [prop. XXVD] iam quoniam per
+datum punctum M rectae positione datae ΓΔ parallela
+
+recta linea ducta est ΘΚ, ΘΚ positione data erit
+[prop. XXVIII}
+
+XXXVIII.
+
+Si ad parallelas rectas positione datas recta linea
+ducitur, eique adiicitur aliqua recta rationem ad
+eam habens datam, et per terminum rectis positione
+
+datis parallela recta linea ducitur, ducta recta positione
+data est.
+
+nam ad parallelas rectas positione datas A Β, ΓΛ
+recta linea-ducatur ΕΖ, eique adiiciatur aliqua recta
+
+ 
+
+In figg. codd. Pv etiam ΕΗ Ζ perpendicularis est.
+Euclides, edd. Heiberg et Menge. V1. 5
+

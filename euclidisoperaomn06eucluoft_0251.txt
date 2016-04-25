@@ -1,0 +1,45 @@
+DATA. ’ ’ . 185
+
+permutando [V‚'16] BA -ι- AF: AA == BF: BA.
+uerum 13110 BF: BA 11313. ergo 6113111 13110
+. BA -Ι- Α Γ : AA 11313 est [def. 2].
+
+⁴ dico, etiam (BA -Ι- ΑΓ).>< ΕΔ datum esse.
+
+113111 quoniam Δ ΑΕΓ aequiangulus esi: triangulo
+“ ΔΕΒ [ΠΙ, 21; I, 15], 6111 BAzAE= ΛΓεΓΕ [VI‚4].
+uerum AF: ΓΕ = BA -Ι- AF: ΒΓ. quare 6113111
+BA —†— AF: ΓΒ = BA : AE [V‚ 11]. itaque
+, (BA ÷ ΑΓ) >< ΕΔ = ΓΒ >< BA [V1‚16].
+(13111111 est 31116111 ΓΒ >< BA [prop. LII]. ergo 6113111
+· - (BA -ι- ΛΓ) >< EA
+(13111111 est [def.·1].
+
+XOI'V.
+
+Si in diametro circuli 11061110116 dati (13111111 1111116111111
+
+61111111111, 61 3 111111610 311 611611111111 16613 aliqua adcidit, , ’
+
+61 3 puncto sectionis ad 1111613111 16613111 116111611111611-
+laris erigitur, 61 1161 1111116111111, 111 quo perpendicularis
+‘concurrit 611111 ambitu, 1131311613 ducitur ductae 166136,
+(13111111 est punctum, in quo' parallela 611111 -11131116110
+60116111111, 61 reetangulum parallelis comprehensum
+(13111111 6111. ’ .
+
+nam in diametro ΒΓ 61161111 positione 11311 ΑΒΓ
+sumatur datum-punctum A, 61 1161 A 311 611611111111
+ducatur 16613 aliqua AA, 61 ab A perpendicularis ad AA
+16613 dueatur AE, 61 1161 Ε 166136 AA parallela ducar
+
+ 
+
+. τῆς ῘἿΒΕ 3. 12. τῶν ΓΒ, BA] τῆς ΓΒΔ 3. ἄρα ἔστί a.
+
+·13. Ante· συναμφοτέρου add τῆς 3. Seq. duae demonstr.
+31136, u. app. 14. 133¹] φ’ Vah, edd.; qy' β(3). 19. παρ-
+άλληλος] διάμετρος v, 6011. supra 6011111111. 2. 20. ἐστι] ἔσται β.
+v 22. ὀρθογώνιον] 0111. β. 23. Post ἐπί add. τῆς Vata 61
+. supra scr. m. 2 v. 27. εὐθεῖα γραμμή 3.
+

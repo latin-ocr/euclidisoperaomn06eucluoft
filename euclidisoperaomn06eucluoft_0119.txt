@@ -1,0 +1,44 @@
+DATA. 53
+
+XXX.
+
+Si a dato puncto ad rectam positione datam recta
+linea ducitur datum efficiens angulum, dueta reeta
+data est positione.
+
+nam a dato puncto A ad rectam ΒΓ positione
+datam recta linea AA dueatur datum efficiens angu-
+
+lum AA Γ. dieo, AA datam esse positione.
+nam si minus, puncto A
+
+A manente positio rectae AA
+mutabitur seruans magni- ’
+ΓΑΒ ί’ΛΙᾶὴῑθῐΠ anguli ΑΔ Γ. mu-
+
+tetur et sit A Z. itaque
+L AAF= ΑΖΓ, maior minori [1, 16]; quod fieri non
+potest. itaque positio rectae ΑΔ non mutabitur. ergo
+AA positione data est [def. 4].
+
+XXXI.
+
+Si a dato puncto ad rectam positione datam recta
+linea data magnitudine adducitur, etiam positione
+data erit.
+
+nam a dato puncto A ad rectam ΒΓ positione
+datam recta linea dueatur data magnitudine. dico,
+
+eam etiam positione datam
+
+Ε A esse.
+nam centro A, radio⁴ au-
+B— Γ tem AA circulus describa-
+Δ tur EA Z. positione igitur
+- Z circulus EAZ datus est
+
+[def. 6]; nam datum est A
+centrum eius positione et radius AA magnitudine.
+uerum etiam reeta ΒΓ positione data est. sin autem
+

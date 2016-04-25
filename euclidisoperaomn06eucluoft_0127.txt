@@ -1,0 +1,44 @@
+DATA. ’ 61
+
+k ducatur enim a puncto A ad ΒΓ perpendicularis
+ῘΑΘ. quoniam a dato puncto A ad rectam ΒΓ po-
+f sitione datam reeta linea ducta est ΑΘ datum effi-
+’ ‘. ciens angulum ΑΘΔ, ΑΘ po-
+
+* A sitione data erit [prop. ΧΧΧ].
+z E L Η uerum etiam ΒΓ positione ·
+
+Ἴ — s data est3 itaque punctum Θ
+
+datum est [prop. XXV] ue-
+
+B A Θ Γ rum etiam A datum est.
+
+ergo A Θ data est [prop.
+XXVI] et quoniam ratio AE z EA data est et
+AE:EA = &JKz KA [VI‚ 2], etiam ratio ΘΚε KA
+data erit [def. 2]. componendo igitur ratio ΘΑ : AK
+data est [prop. VI] data est autem ΘΑ. quare etiam
+A K data est [prop. ΙΙ]. uerum etiam positione data est.
+et punctum A datum est3 quare etiam K datum est
+[prop. XXVII} iam quoniam per datum punctum K
+rectae positione datae ΒΓ parallela ZH ducta est,
+ZH positione data erit [prop. XXVHI]
+
+XXXVI.
+
+Si a dato puncto ad rectam positione datam recta
+linea ducitur, eique aliqua recta adjicitur rationem ad
+eam habens datam, et per terminum adiectae rectae
+recta linea ducitur rectae positione datae parallela,
+ducta recta data est positione.
+
+nam a dato punoto A ad rectam positione datam
+ΒΓ reeta linea ducatur AA, et rectae AA adiiciatur
+AE rationem ad ΑΔ habens datam, et per punctum E
+
+ 
+
+16. λς’] λζ’ β. 20. τῇ] om. β. 21. εὐθεῖαν] om. PVat.
+εὐθεῖα] om. v. 25. AA] AA a.
+

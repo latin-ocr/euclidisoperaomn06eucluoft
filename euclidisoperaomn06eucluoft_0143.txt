@@ -1,0 +1,45 @@
+DATA. 77
+
+rectarum H Θ, ΘΚ, ΚΗ magnitudine data est [def. 1].
+ergo triangulus ΗΘΚ datus est specie [prop. XXXIX].
+ct quoniam AB ε BF= A : E et Δτ-ΗΘ, Ε--ΘΚ,
+erit ΑΒ : BF= ΗΘ : ΘΚ. rursus quoniam
+ΒΓ z Γ Α = E : Z
+
+et E=&K‚ Z=HK‚ erit BF2FA= ΘΚεΚΗ.
+sed demonstratum est, esse etiam Α Β : ΒΓ = ΘΗ : ΘΚ.
+quare ex aequo est AB : AF= ΘΗε HK [V‚ 22].
+itaque Δ ΑΒΓΝ ΗΘΚ [VI‚ 5]. uerum triangulus
+ΗΘΚ datus est specie. ergo etiam triangulus ΑΒΓ
+datus est specie [def. 3].
+
+XLIII.
+
+Si trianguli rectanguli latera alterutrum acutorum
+angulorum comprehendentia inter se rationem habent
+datam, triangulus datus est specie.
+
+nam trianguli rectanguh‘ ΑΒΓ rectum habentis
+angulum ΒΑΓ latera alterutrum acutorum angulorum
+eius ΑΒΓ comprehendentia ΓΒ, BA inter se rationem
+habeam: datam. dico, triangulum ΑΒΓ datum esse
+specie.
+
+ponatur enim recta positione et magnitudine data
+AE, et in AE describatur semicirculus ΛΗ Ε. itaque
+semicirculus Δ Η Ε datus est positione [def. 8]. et
+¹ quoniam ratio ΓΒ z BA data est, aequalis ei fiat ratio
+1 AE: Z. itaque etiam ratio AE : Z data est [def. 2].
+V sed data est recta ΛΕ. quare etiam Z data est
+[prop. II]. et est ΓΒ > ΒΑ [1, 19]. itaque etiam
+
+ 
+
+ 
+
+demde dem. altera propositionis Zy' et propos. 26¹ usque ad
+p. 58, 10. δοθὲν ἄρα. 17. τῶν (pr.)] τήν v, mut. in τῶν m. 2.
+
+18. αὐτοῦ] supra m. 1 Vat. τήν] corr. ex τῶν m. 2 v.
+· τῶν ΑΒΓ v. 23. A(alt.)] A Vat„ corr. m. 2.
+

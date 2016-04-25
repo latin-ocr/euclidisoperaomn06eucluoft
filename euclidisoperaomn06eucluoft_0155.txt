@@ -1,0 +1,47 @@
+{W
+DATA. 89
+describantur AB Γ, ΑΔ Β. dico, rationem A ΓΒ : AAB
+
+datam esse.
+
+, ducantur a punctis A, Β ad rectam AB perpen-
+diculares rectae AE, ΗΒ et producantur ad Ζ, Θ, et
+per puncta Γ, Δ rectae AB parallelae ducantur ΕΓΗ,
+ΖΔ Θ. quoniam A ΑΒΓ datus est speeie, ratio
+ΓΛ : BA data est [def. 3].
+iam quoniam L ΓΑΒ datus
+est [ib] et etiam l, EAB
+datus est, etiam qui relin—
+quitur 'L ΕΑΓ datus erit
+[prop. IV]. uerum etiam
+z ΛΑΕΓ datus est [I7 29].
+
+itaque etiam reliquus L ΕΓΑ datus est [1, 323
+η propp. ΙΙΙ, IV]. quare A ΑΕΓ datus est speeie
+¹ [prop. XL]. itaque ratio EA : A Γ data est [def. 3].
+j uerum ratio ΓΑ : AB data est. itaque etiam ratio
+
+EA: AB data est [prop. VIII] eadem de causa
+ζ etiam ratio ZA : AB data est. itaque etiam ratio
+ΕΑ : AZ data est [ib.]. et est AEzAZ == AH: ΘΑ
+&³ ΠΙ, 1]. quare etiam ratio A H : ΑΘ data est [def. 2].
+V, et rectanguli AH dimidia pars est A ΑΒΓ, rect-
+anguli autem A Θ dimidia pars Δ ΑΔ Β [Ι, 41]. ergo
+ratio ABF: AAB data est [V‚ 153 def. 2].
+
+ 
+
+XLIX.
+
+Si in eadem reeta duae quaelibet figurae recti-
+
+÷lfiineae describuntur specie datae, rationem inter se
+habebunt datam.
+
+, AB] ΑΒΓ b. 18. καί ἐστιν] om. b. ΛΕ] ΕΑ b. 19.
+ἲ ΘΑ] ΑΘ b. 20. ΑΒΓ τρίγωνον b. 21. ΑΔΒ] ΑΒΔ V.
+
+     
+
+ 
+

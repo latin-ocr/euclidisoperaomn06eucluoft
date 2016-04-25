@@ -1,0 +1,43 @@
+DATA. 63
+
+rectae ΒΓ pasaflela dueatur ZK. dico, ZK datam
+‚ense positione.
+
+ducatur enim a puncto A ad ΒΓ perpendicularis
+ΛΘ et educatur ad H. quoniam a dato puncto A
+ad rectam positione datam ΒΓ reeta linea ducta est
+
+Α Θ datum efficiens angu-
+
+2- Η E K lum ΑΘΓ, recta ΘΑΗ po-
+
+A sitione data erit [prop.
+' XXX} uerum etiam ΒΓ
+Β Δ Θ -Γ positione data est; itaque
+
+punctum Θ datum est [prop.
+XXV] uerum etiam A datum est. ergo ΑΘ data
+est [prop. XXVI] et quoniam ratio AA : AE data
+est et AA : AE = ΘΑ : AH [VI‚ 4], etiam ratio
+ΘΑ : A H data erit [def. 2]. data est autem ΘΑ. quare
+etiam AH data est [prop. Π]. uerum etiam positione
+data est. et datum est punctum A3 quare etiam H
+datum est [prop. XXVII] iam quoniam per datum
+punctum H rectae ΒΓ positione data-e parallela reeta
+linea ducta est ZH Κ, ΖΗ Κ positione data erit
+
+[prop. XXVIII}
+XXXVII.
+
+Si ad parallelas rectas positione datas recta linea
+ducitur et secatur secundum datam rationem, et per
+terminum sectionis rectis positione datis parallela
+recta linea ducitur, ducta recta data est positione.
+
+nam ad parallelas rectas positione datas AB ‚ ΓΔ
+recta linea ducatur E Z et secetur secundum datam
+rationem ZH : HE, et educatur per punctum H utri-
+
+que AB ‚ ΓΔ parallela, ΘΚ. dico, ΘΚ datam esse
+positione.
+

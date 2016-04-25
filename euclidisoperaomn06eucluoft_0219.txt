@@ -1,0 +1,46 @@
+⁴ DATA. 153
+
+rationem ΖΒ :EA datam esse. quare etiam ratio
+ΕΘε ΖΛ data est [def. 2]. uerum ratio ΕΘεΓΕ
+data est. itaque etiam ratio ΓΕ : ZA data est
+[prop. VIH]. est autem Λ Ζ == ZB. quare etiam ratio
+ΓΕ :EA data est ¹) [prop. VHI} et rectus est angulus
+ad E positus. ergo ΓΔ datum est specie [def. 3].
+
+LXXIX.
+
+Si duo trianguli unum angulum uni angulo aequa-
+lem habent, et ab angulis aequalibus ad bases rectae
+lineae perpendiculares ducuntur, et est, ut basis primi
+trianguli ad perpendicularem, ita basis alterius tri-
+anguli ad perpendicularem, trianguli aequianguli erunt.
+
+sint duo trianguli ΑΒΓ, ΘΖΗ angulos ad Z, Β
+positos aequales habentes, et duc-antur a Z, Β per-
+pendiculares BA,
+ZK 3 sit autem
+AF:BA=&H:KZ.
+dico, triangulum
+AB Γ triangulo
+ΘΖΗ aequiangu-
+lum esse.
+
+circumscribatur enim circum ΘΖΗ triangulum
+circulus [1V‚ 5]‚ cuius segmentum sit ΘΖΗ, et con-
+
+ 
+
+ 
+
+In fig, cod. Vat. ΖΘ et AH perpendiculares sunt ad
+ΘΗ, ΖΚ et ΛΜ oblique ductae. rectam ΖΛ om. Vatvb. in
+, priore figura cod. b Δ ΑΒΓ aequicrurius est3 in altera figura
+et in textu pro H hab. E b.
+
+ 
+
+1) Euclides hic paulo brevior est quam solet3 ita concludi
+uoluit: quoniam ratio ΓΕ : ΛΖ data est, et AZ= ZB, etiam
+ratio PE: ZB data erit. uerum ratio ZB z ΕΔ data est (hypoth.).
+quare etiam ratio I'E: ΕΔ data est [prop. VIH].
+

@@ -1,0 +1,40 @@
+      
+
+DATA. 115
+Ι
+ἶ ad parallelogrammum rationem habet datam, parallelo-
+¹ grammum datum est specie.
+
+, nam duae rectae A B, ΓΔ inter se rationem ha-
+beant datam, et describatur in AB figura specie data
+’ ΑΕΒ, in ΓΔ autem parallelogrammum A Z in dato
+ι angulo ΖΓΛ, et ratio figurae ΕΒ ad parallelogram-
+i mum ZA data sit. dico, parallelogrammum A Z da-
+
+tum esse specie.
+
+‚ describatur enim in AB parallelogrammo A Z simile
+et similiter positum parallelogrammum AH [VL 18].
+ἔ E quoniam ratio AB ε Γ Δ data est
+
+³ et in AB ‚ ΓΔ descriptae s'unt si-
+miles et similiter positae figurae
+
+rectilineae AH, ZA, ratio A H : ZA
+
+A* B data erit [prop. L]. uerum ratio
+
+γ ; ΖΔ : ΕΒ data est. quare etiam
+*j ratio E Β z A H data est [prop. VIII].
+
+Ξ H et L ΒΑΘ datus est3 nam aequalis
+Η ¹ ι est angulo ΖΓΔ [VI def. 1]. iam
+Γ- Δ quoniam lateri AB figurae specie
+datae ΕΒ adplicatum est AH in
+
+dato angulo ΘΑΒ et ratio figurae ΕΒ ad parallelo-
+grammum AH data est, AH datum est specie
+[prop. LXI] et simile est parallelogrammo ZA. ergo
+
+etiam ZA datum est specie [def. 3].
+

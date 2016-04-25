@@ -1,0 +1,39 @@
+DATA. 147
+
+’ sint duo trianguli AB F, AEZ inter se rationem
+habentes datam, et anguli ad A, A positi aut aequales
+sint aut inaequales, sed dati. dico, esse, ut AB ad
+ΔΕ, ita A Z ad eam rectam, ad quam A Γ rationem
+
+habeat datam.
+expleantur enim parallelogramma Α Η, ΛΘ.
+
+et quoniam ratio Δ ΑΒΓ : ΔΛ Ε Ζ data est, etiam
+ratio parallelogrammi AH ad parallelogrammum Δ Θ
+
+ 
+
+ss fg
+B <5 >F EX—s— ᾖ--Χ->Ζ
+
+data [I‚41; def. 2]. iam quoniam duo parallelogramma
+AH, A Θ inter se rationem habent datam et in an-
+gulis sunt aut aequalibus aut inaequalibus, sed datis,
+erit, ut AB ad ΔΕ, ita Δ Ζ ad eam rectam, ἃᾶ quam
+Α Γ rationem habet datam [prop. LXXIV].
+
+LXXVI.
+
+Si in triangulo speeie dato a uertice ἃᾶΣ basim per-
+pendicularis ducitur, dueta reeta ad basim rationem
+habet datam.
+
+sit triangulus specie datus ΑΒΓ, et ducatur ab A
+ad ΒΓ perpendicularis AA. dico, rationem ΑΔ : ΒΓ
+datam esse,
+
+nam quoniam Δ ΑΒΓ speeie datus est, etiam
+
+L ΑΒΔ datus erit [def. 3]. uerum etiam L BAA
+10*
+

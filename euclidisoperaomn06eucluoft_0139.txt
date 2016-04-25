@@ -1,0 +1,45 @@
+DATA. 73
+XLI. ’
+
+Si triangulus unum angulum datum habet et latera
+datum angulum comprehendentia rationem inter se
+habent datam, triangulus datus est specie.
+
+habeat enim triangulus ΑΒΓ unum angulum da-
+tum BA Γ, et latera angulum ΒΑΓ comprehendentia
+BA, Α Γ inter se rationem habeant datam. dieo, tri-
+angulum ΑΒΓ datum esse speeie.
+
+ponatur enim reeta Δ Ζ positione et magnitudine
+data, et ad rectam AZ et punctum in ea positum Z an-
+gulo ΒΑΓ aequalis construatur angulus Λ ΖΕ [I‚23]. sed
+
+datus est angulus ΒΑΓ.
+Α Z itaque etiam angulus ΔΖΕ
+
+datus est [def. 1]. iam
+
+quoniam ad rectam posi-
+
+tione datam AZ et datum
+
+B Γ punctum in ea positum Z
+ΔΛ IE reeta linea dueta est ZE
+datum efficiens angulum
+
+AZE, ZE data erit positione [prop. XXIX] et quo-
+niam ratio BA z ΑΓ data est, aequalis ei fiat ratio
+Δ Z: ZE et iungatur A E. itaque etiam ratio AZ: ZE
+data est [def. 2]. sed data est AZ. itaque etiam ZE
+
+data est [prop. ll]. uerum etiam positione data est.
+
+et punctum Z datum est3 quare etiam E datum est
+
+[prop. XXVII} sed etiam utrumque punctum A, Ζ
+datum est. itaque unaquaeque rectarum A Z, ZE⁷ AE
+positione et magnitudine data est [prop. XXVI] ergo
+triangulus Δ ΖΕ datus est specie [prop. XXXIX] et
+quoniam duo trianguli ΑΒ Γ, ΔΕΖ unum angulum
+uni angulo aequalem habent, L ΒΑΓ = LAZE, et
+
